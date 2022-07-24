@@ -4,6 +4,6 @@ This is a database management system which is implemented in C++ from scratch. A
 ## Details
 [Link](https://github.com/ChiragJindal21/Library-Management-System/blob/main/Report.pdf)
 
-Steps to execute:  
+## Steps to execute:  
 1. Store all the files in the same folder.  
 2. Run the file Main_file.cpp  
